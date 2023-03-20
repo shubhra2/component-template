@@ -1,11 +1,11 @@
 import setuptools
 
 setuptools.setup(
-    name="streamlit-custom-component",
-    version="0.0.1",
-    author="",
+    name="circle_packing_chart",
+    version="0.0.2",
+    author="shubhra",
     author_email="",
-    description="",
+    description="Generate interactive nested circle packing chart",
     long_description="",
     long_description_content_type="text/plain",
     url="",
